@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Chanl
+description: The chanl blog
+meta_description: "Chanl app, blog posts"
 
 markdown: redcarpet
 highlighter: pygments
@@ -12,4 +12,4 @@ google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
 url:            'blog url'
-author:         'Your Name'
+author:         'Chanl Dev'
