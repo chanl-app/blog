@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chanl User Cases!"
+title:  "Chanl Use Cases!"
 date:   2015-07-31 10:18:00
 categories: chanl use-cases use-case
 published: true
