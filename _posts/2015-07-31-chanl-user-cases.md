@@ -4,6 +4,8 @@ title:  "Chanl User Cases!"
 date:   2015-07-31 10:18:00
 categories: chanl use-cases use-case
 published: true
+comments: True
+disqus: true
 ---
 
 A list of use case for chanl. The chanl app is centered around the distribution of information to others. With this in mind we've made a list of what you can choose to use your chanl for.
@@ -20,7 +22,7 @@ A list of use case for chanl. The chanl app is centered around the distribution 
 
 * __etc__
 
-* Please let us know if you have a suggestion on how you would use chanl in the comment below or send us an email at thechanlapp@gmail.com
+Please let us know if you have a suggestion on how you would use chanl in the comment below or send us an email at thechanlapp@gmail.com
 
 
 We'd be writing more use cases of chanl. Please follow us on facebook or join us on twitter to get the latest updates.
