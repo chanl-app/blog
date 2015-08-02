@@ -4,12 +4,12 @@ meta_description: "Chanl app, blog posts"
 
 markdown: redcarpet
 highlighter: pygments
-logo: false
+logo: true
 paginate: 15
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://chanlapp.com'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
-url:            'blog url'
-author:         'Chanl Dev'
+url:            'http://blog.chanlapp.com'
+author:         'Team Chanl'
