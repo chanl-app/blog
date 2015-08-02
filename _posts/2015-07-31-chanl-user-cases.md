@@ -4,7 +4,6 @@ title:  "Chanl User Cases!"
 date:   2015-07-31 10:18:00
 categories: chanl use-cases use-case
 published: true
-comments: True
 disqus: true
 ---
 
