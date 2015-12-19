@@ -7,7 +7,7 @@ highlighter: pygments
 logo: true
 paginate: 15
 baseurl: /
-domain_name: 'http://chanlapp.com'
+domain_name: 'http://blog.chanlapp.com'
 google_analytics: 'UA-65883840-2'
 
 # Details for the RSS feed generator
