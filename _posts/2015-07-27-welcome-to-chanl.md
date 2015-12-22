@@ -12,7 +12,7 @@ We're here to answer most of your question about what chanl is and how you can u
 ###What is chanl?###
 Chanl is a mobile communication tool that enables individuals, businesses and organization to reach out to their users, customers or friends. Thus sending relevant information to them.
 
-Simply put ones you create a chanl __(or a group)__ on chanl you get a unique id which could be shared to other users on the platform. This chanl/group can be used to send notifications in the form of feeds to users.
+Simply put once you create a chanl __(or a group)__ on chanl you get a unique id which could be shared to other users on the platform. This chanl/group can be used to send notifications in the form of feeds to users.
 
 ###How do your users benefit?###
 Users within your chanl get to see feeds from you and make comment within feeds. This creates engagement from users for a particular topic, news or information.
